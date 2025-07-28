@@ -19,6 +19,7 @@ const Signup = () => {
   }
 }, [navigate]);
 
+// add comment
 
     const colectData = async () => {
         try {
